@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
 
-<a href=#><img src="contributions.svg"></a>
+<a href=#><img src="contribution.svg"></a>
 
 <p align="center"> 
   Visitor count<br>
